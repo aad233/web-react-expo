@@ -1,3 +1,46 @@
+## 🚀 Previewing the App
+
+**You can preview the app using one of these methods:**
+
+### 1. Using Expo Go (Recommended)
+1. **Install [Expo Go](https://expo.dev/go) on your mobile device** (iOS or Android).
+2. **Clone this repository:**
+   ```bash
+   git clone https://github.com/aad233/web-react-expo.git
+   cd web-react-expo
+   ```
+3. **Install dependencies:**
+   ```bash
+   npm install
+   ```
+4. **Start the development server:**
+   ```bash
+   npm start
+   ```
+   or
+   ```bash
+   expo start
+   ```
+5. **Scan the QR code** shown in your terminal or browser with the Expo Go app to open the live preview on your device.
+
+### 2. Web Preview
+- After starting the server, open [http://localhost:19006](http://localhost:19006) in your browser to see the web version.
+
+### 3. Hosted Preview
+- If a hosted preview (Expo Snack, Vercel, Netlify) is available, the link will appear here:
+  ```
+  [Live Preview](YOUR_PREVIEW_LINK_HERE)
+  ```
+
+---
+
+**Troubleshooting:**  
+If you encounter issues, ensure you have Node.js and npm installed, and your device is on the same Wi-Fi network as your development machine.
+
+---
+
+*Feel free to update this section with specific preview links or instructions as your deployment setup evolves!*
+
 > Edited for use in IDX on 07/09/12
 
 # Welcome to your Expo app 👋
